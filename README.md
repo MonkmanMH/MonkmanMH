@@ -2,7 +2,8 @@
 
 💬 Ask me about ...
 
-* public service applications of #rstats and #datascience
+* public sector applications of #rstats and #datascience
+
 
 
 <!--
