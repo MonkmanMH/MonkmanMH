@@ -3,6 +3,7 @@
 💬 Ask me about ...
 
 * public sector applications of #rstats and #datascience
+* data analytics coding in a business context
 
 
 
